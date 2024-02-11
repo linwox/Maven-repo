@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/linne/java23/utvecklingsverktyg/inlamning2/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/linne/java23/utvecklingsverktyg/inlamning2/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+se.yrgo.models
+se.yrgo.ui
+se.yrgo.utilities
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\src\main\java = 1706881743284
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\allclasses-index.html = 1706882015784
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\allpackages-index.html = 1706882015800
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\element-list = 1706882015333
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\help-doc.html = 1706882015890
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\index-all.html = 1706882015860
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\index.html = 1706882015750
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\jquery-ui.overrides.css = 1706882016032
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\member-search-index.js = 1706882015826
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\module-search-index.js = 1706882015811
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\overview-summary.html = 1706882015875
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\overview-tree.html = 1706882015734
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\package-search-index.js = 1706882015814
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\script.js = 1706882015917
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\search.js = 1706882015925
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\serialized-form.html = 1706882015464
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\stylesheet.css = 1706882015904
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\tag-search-index.js = 1706882015837
+C:\Users\linne\java23\utvecklingsverktyg\inlamning2\Library\target\site\apidocs\type-search-index.js = 1706882015819
